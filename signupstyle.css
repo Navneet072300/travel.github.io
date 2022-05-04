@@ -1,0 +1,85 @@
+body {
+  font-family: "Libre Franklin", sans-serif;
+  font-family: "Lobster", cursive;
+  font-family: "Merriweather", serif;
+  font-family: "Mochiy Pop One", sans-serif;
+  font-family: "Mochiy Pop P One", sans-serif;
+  font-family: "Red Hat Mono", monospace;
+}
+.container {
+  border: 2px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0px 0px 10px 0px black;
+  text-align: center;
+  margin-top: 50px;
+  width: 100%;
+}
+h1 {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  padding-top: 5px;
+}
+#name {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgb(8, 4, 4);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#phone {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgb(8, 4, 4);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#ename {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgb(8, 4, 4);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#pass {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgb(8, 4, 4);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#cpass {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgb(8, 4, 4);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.btn {
+  background-color: #a12b4e;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 3px;
+  margin-bottom: 15px;
+  cursor: pointer;
+  font-size: 15px;
+}
+.btn:hover {
+  cursor: pointer;
+  color: rgb(4, 1, 7);
+}

@@ -1,0 +1,57 @@
+.btn {
+  float: left;
+  display: block;
+  margin: -20px -9px;
+  color: #f2f2f2;
+  background-color: rgb(3, 110, 12);
+  text-align: right;
+  padding: 10px 17px;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid rgb(3, 110, 12);
+  border-radius: 10px;
+}
+.btn:hover {
+  border: 2px solid rgb(247, 239, 239);
+  border-radius: 10px;
+  background-color: rgb(247, 239, 239);
+  color: black;
+}
+.travel-image {
+  background: url(photo/tour2.jpg) no-repeat center;
+  background-size: cover;
+  height: 655px;
+  position: relative;
+}
+
+.travel-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.bookbtn {
+  border-radius: 12px;
+  background-color: #023d3b;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: -4px -18px;
+  cursor: pointer;
+}
+.bookbtn:hover {
+  background-color: rgb(231, 224, 224);
+  color: black;
+}
+.right {
+  position: absolute;
+  right: 34px;
+  display: inline-block;
+  /* border: 2px solid yellow; */
+}
